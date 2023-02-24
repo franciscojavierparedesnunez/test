@@ -11,7 +11,7 @@
 			// Append -bullseye or -buster to pin to an OS version.
 			// Use -bullseye variants on local on arm64/Apple Silicon.
 			//"VARIANT": "3.8-bullseye",
-			"VARIANT": "3.10",
+			"VARIANT": "3.11",
 			// Options
 			"NODE_VERSION": "none"
 		}
